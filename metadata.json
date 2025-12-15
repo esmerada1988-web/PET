@@ -1,0 +1,5 @@
+{
+  "name": "Cambridge PET Writing Examiner",
+  "description": "An AI-powered revision tool for Cambridge B1 Preliminary (PET) writing tasks. It analyzes student stories, provides marking traces, scores against official criteria, and suggests improvements.",
+  "requestFramePermissions": []
+}
